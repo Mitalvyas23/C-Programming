@@ -1,3 +1,7 @@
+/*TOPIC = Number is prime or not using UDF
+PROGRAMMER = Mital vyas
+*/
+
 #include<stdio.h>
 #include<conio.h>
 
