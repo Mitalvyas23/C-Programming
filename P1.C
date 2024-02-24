@@ -1,3 +1,7 @@
+/*TOPIC = Menu driven program on two-dimensional array
+  PROGRAMMER = Mital vyas
+*/
+
 #include<stdio.h>
 #include<conio.h>
 void main()
