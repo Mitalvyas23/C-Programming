@@ -1,3 +1,7 @@
+/*TOPIC = Structure of employee
+  PROGRAMMER = Mital vyas
+*/
+
 #include<stdio.h>
 #include<conio.h>
 
